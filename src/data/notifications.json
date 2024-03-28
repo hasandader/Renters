@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "statusID": 1,
+            "title": "تسديد دفعة",
+            "dateTime": "20-10PM 7:56",
+            "isRed": false,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 2,
+            "title": "إنتهاء عقد",
+            "dateTime": "20-10PM 7:56",
+            "isRed": false,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 3,
+            "title": "دفعة مستحقة",
+            "dateTime": "20-10PM 7:56",
+            "isRed": false,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 4,
+            "title": "مصروفات عقار",
+            "dateTime": "20-10PM 7:56",
+            "isRed": false,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 3,
+            "title": "دفعة مستحقة",
+            "dateTime": "20-10PM 7:56",
+            "isRed": true,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 4,
+            "title": "مصروفات عقار",
+            "dateTime": "20-10PM 7:56",
+            "isRed": true,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 3,
+            "title": "دفعة مستحقة",
+            "dateTime": "20-10PM 7:56",
+            "isRed": true,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        },
+        {
+            "statusID": 4,
+            "title": "مصروفات عقار",
+            "dateTime": "20-10PM 7:56",
+            "isRed": true,
+            "notifInfo": "تم تسديد دفعة جديدة  على العقد رقم 23659825"
+        }
+    ]
+}
